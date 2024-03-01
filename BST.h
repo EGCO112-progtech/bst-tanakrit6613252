@@ -120,4 +120,5 @@ void treeOrder( TreeNodePtr treePtr, int i){
       treeOrder( treePtr->leftPtr,i+1);
       
    }
+   
 }
